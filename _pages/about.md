@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am Ruyu Yun, in my **third year** as a **Ph.D. candidate** at *Institute for Digital Technologies*, Loughborough University London, focusing on *neuromarketing* and *digital psychology*. My research focuses on understanding the dynamic interplay between technology and consumer behavior, particularly in the context of the changes brought about by Metaverse.
+I am Ruyu Yun, in my **third year** as a **Ph.D. candidate** at [Institute for Digital Technologies, Loughborough University London](https://www.lborolondon.ac.uk/institutes/digital-technologies/), working under the mentorship of [Dr. Jie Meng](https://www.lborolondon.ac.uk/about/staff/dr-jie-meng/), the Programme Director and Interdisciplinary Priority Research Lead; and [Dr. Safak Dogan](https://www.lborolondon.ac.uk/about/staff/safak-dogan/), the Reader and Programme Director. I'm specializing in ***neuromarketing* and *digital psychology***. My research focuses on understanding the dynamic interplay between technology and consumer behavior, particularly in the context of the changes brought about by Metaverse.
 
-I completed my **Master of Science in Management** at *Leeds Business School*, University of Leeds, where my dissertation was awarded a distinction. My undergraduate degree is a **Bachelor of Laws** from Taiyuan Institute of Technology. In my Ph.D. research, I am examining how technological environments affect consumer psychology, blending legal, management, and psychological insights.
 
 Research Interests
 ======
-- Digital Psychology;<br> - Digital Anthropology;<br> - Immersive Technologies, eg.VR,AR,and XR;<br> - Human-computer Interaction;<br> - Consumer Behaviour;<br> - Decision Making.
+- **Consumer Behaviour:** Consumer Psychology (identity issues), Cognitive Psychology (cognitive bias), Social Media, Innovation, Branding, and Decision Making. <br>
+- **Human-computer Interaction:** Immersive Technologies (VR, AR, and XR), Digital Psychology, and Digital Anthropology. <br>
+- **Machine Learning:** Computer vision. <br>
+- **Neuromarketing:** Eye-tracking, EEG, fMRI, Emotion Analysis.
 
 Getting started
 ======
