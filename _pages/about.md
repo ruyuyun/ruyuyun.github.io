@@ -14,12 +14,12 @@ I hold a Master's in Management from the University of Leeds and a Bachelor's in
 
 Research Interests
 ======
-Digital Psychology
-Digital Anthropology
-Immersive Technologies, eg.VR,AR,and XR
-Human-computer Interaction
-Consumer Behaviour
-Decision Making
+Digital Psychology;
+Digital Anthropology;
+Immersive Technologies, eg.VR,AR,and XR;
+Human-computer Interaction;
+Consumer Behaviour;
+Decision Making.
 
 Getting started
 ======
