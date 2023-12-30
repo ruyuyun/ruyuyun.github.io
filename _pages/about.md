@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 3rd-year Ph.D. candidate at Institue of Digital Technologies, Loughborough University London. I specializing in Neuromarketing and Digital Psychology. My work centers on the intersection of technology and consumer behaviour, particularly in the context of metaverse.
+I am Ruyu Yun, in my **third year** as a **Ph.D. candidate** at *Institute for Digital Technologies*, Loughborough University London, focusing on *neuromarketing* and *digital psychology*. My research focuses on understanding the dynamic interplay between technology and consumer behavior, particularly in the context of the changes brought about by Metaverse.
 
-I hold a Master's in Management from the University of Leeds and a Bachelor's in Law from Taiyuan Institute of Technology. In my doctoral research, I explore the impact of the technological liminoid spaces on consumer psychology. This interdisciplinary approach uniquely blends my expertise in law, management, and psychology.
+I completed my **Master of Science in Management** at *Leeds Business School*, University of Leeds, where my dissertation was awarded a distinction. My undergraduate degree is a **Bachelor of Laws** from Taiyuan Institute of Technology. In my Ph.D. research, I am examining how technological environments affect consumer psychology, blending legal, management, and psychological insights.
 
 Research Interests
 ======
-Digital Psychology; Digital Anthropology; Immersive Technologies, eg.VR,AR,and XR; Human-computer Interaction; Consumer Behaviour; Decision Making.
+- Digital Psychology;<br> - Digital Anthropology;<br> - Immersive Technologies, eg.VR,AR,and XR;<br> - Human-computer Interaction;<br> - Consumer Behaviour;<br> - Decision Making.
 
 Getting started
 ======
