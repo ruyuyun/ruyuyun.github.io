@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Ruyu Yun"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Ruyu Yun"
+description              : &description "3rd Years Ph.D. Researcher"
+url                      : "https://ruyuyun.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "ruyuyun/ruyuyun.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -86,8 +86,8 @@ author:
   location         : "Leeds and London, UK"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.hk/citations?user=sIBz_q8AAAAJ&hl=zh-CN"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=e4YR2pMAAAAJ&hl=zh-CN"
+  email            : "R.Yun@lboro.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/ruyuyun/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
