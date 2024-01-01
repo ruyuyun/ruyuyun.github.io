@@ -1,20 +1,16 @@
 ---
-title: "Teaching experience 1"
+title: "Tutor for Design Practices in Digital Industries"
 collection: teaching
-type: "Undergraduate course"
+type: "Master's course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Loughborough University London, Institute for Digital Technologies"
+date: Nov 2022 - Present
+location: "London, UK"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Key Responsibilities
+=====
+*	Presented 4 workshops (3 hours per class) during semester for class of 79 master students.
+*	Topics included: immersive experience technology introduction (Virtual/Augmented/Mix Reality, Pervasive Games, Digital Twins, Telepresence), experiential marketing, UTAUT2, and mobile marketing. 
+*	Assisted faculty with administrative tasks and curriculum development.
+*	Weekly office hours and Q&A.
+*	Achieved overall students’ approval rating of 3.59 on 4-point scale (Top 1 in the semester).
