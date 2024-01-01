@@ -4,7 +4,6 @@ collection: teaching
 type: "Master's course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Loughborough University London, Institute for Digital Technologies"
-date: 2022 until now
 location: "London, UK"
 ---
 ***Nov 2022 - Present*** <br>
