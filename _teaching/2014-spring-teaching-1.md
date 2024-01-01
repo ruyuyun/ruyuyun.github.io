@@ -7,8 +7,7 @@ venue: "Loughborough University London, Institute for Digital Technologies"
 date: Nov 2022 - Present
 location: "London, UK"
 ---
-Key Responsibilities
-=====
+**Key Responsibilities**
 *	Presented 4 workshops (3 hours per class) during semester for class of 79 master students.
 *	Topics included: immersive experience technology introduction (Virtual/Augmented/Mix Reality, Pervasive Games, Digital Twins, Telepresence), experiential marketing, UTAUT2, and mobile marketing. 
 *	Assisted faculty with administrative tasks and curriculum development.
