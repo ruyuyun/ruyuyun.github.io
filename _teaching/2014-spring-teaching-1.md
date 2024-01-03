@@ -1,10 +1,10 @@
 ---
 title: "Tutor - Design Practices in Digital Industries"
 collection: teaching
-type: "Master's workshop"
+type: "Master's Workshop"
 permalink: /teaching/2014-spring-teaching-1
-Date: 2022
 venue: "Loughborough University London, Institute for Digital Technologies"
+Date: 2022
 location: "London, UK"
 ---
 ***Nov 2022 - Present*** <br>
