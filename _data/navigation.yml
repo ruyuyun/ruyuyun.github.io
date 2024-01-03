@@ -2,13 +2,13 @@
 main:
   - title: "Research"
     url: /research/
-    
+  
   - title: "Publications"
     url: /publications/
-
+  
   - title: "Teaching"
     url: /teaching/    
-
+  
   - title: "Talks"
     url: /talks/    
     
@@ -17,10 +17,9 @@ main:
         
   - title: "Blog Posts"
     url: /year-archive/
-
- - title: "Fundings & Grants"
+  
+  - title: "Fundings & Grants"
     url: /fundings/
     
   - title: "CV"
-    url: /cv/
-    
+    url: /cv/  
