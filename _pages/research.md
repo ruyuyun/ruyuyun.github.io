@@ -8,3 +8,4 @@ redirect_from:
 
 {% include base_path %}
 
+**This is an example**
