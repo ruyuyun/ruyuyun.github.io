@@ -4,7 +4,7 @@ collection: teaching
 type: "Master's Lecture"
 permalink: /teaching/2022-spring-teaching-3
 venue: "Loughborough University, Institute for Digital Technologies"
-date: 2022
+date: 2022-03-01
 location: "London, UK"
 ---
 ***March 2022***
