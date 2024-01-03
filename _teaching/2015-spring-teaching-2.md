@@ -4,7 +4,7 @@ collection: teaching
 type: "Master's Workshop"
 permalink: /teaching/2015-spring-teaching-2
 venue: "Loughborough University, Institute for Digital Technologies"
-date: 2022
+date: 2022-10-01
 location: "London, UK"
 ---
 ***Oct 2022 to Present***
