@@ -1,5 +1,5 @@
 ---
-title: "Tutor for Design Practices in Digital Industries"
+title: "Tutor - Design Practices in Digital Industries"
 collection: teaching
 type: "Master's course"
 permalink: /teaching/2014-spring-teaching-1
