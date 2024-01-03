@@ -1,20 +1,18 @@
 ---
-title: "Teaching experience 2"
+title: "Tutor - Strategic Marketing Management"
 collection: teaching
-type: "Workshop"
+type: "Master's course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Loughborough University, Institute for Digital Technologies"
+date: 2022
+location: "London, UK"
 ---
+***Oct 2022 to Present***
 
-This is a description of a teaching experience. You can use markdown like any other post.
+*	Presented 18 workshops (1 hour per class) during semester for class of 45 master students.
+*	Topics included: introductory marketing strategy, external and internal marketing environment analysis, blue and red ocean, consumer persona, customer value proposition and simulation, disruptive tech in pricing, social media campaign.  
+*	Graded assigned final assessment for class of 51 master students.
+*	Assisted faculty with administrative tasks and curriculum development.
+*	Weekly office hours and Q&A.
+*	Achieved overall students’ approval rating of 3.28 on 4-point scale (Top 2 in the semester).
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
