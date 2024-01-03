@@ -3,7 +3,7 @@ title: "Tutor - Strategic Marketing Management"
 collection: teaching
 type: "Master's Workshop"
 permalink: /teaching/2015-spring-teaching-2
-venue: "Loughborough University, Institute for Digital Technologies"
+venue: "Loughborough University London, Institute for Digital Technologies"
 date: 2022-10-01
 location: "London, UK"
 ---
