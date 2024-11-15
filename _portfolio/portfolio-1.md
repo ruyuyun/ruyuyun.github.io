@@ -1,6 +1,6 @@
 ---
 title: "Doctoral Innovation Consultants"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/DlnC.jpg'>"
+excerpt: "Doctoral Innovation Consultants for LUinc.<br/><img src='/images/DlnC.jpg'>"
 collection: portfolio
 ---
 
