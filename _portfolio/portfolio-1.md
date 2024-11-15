@@ -1,6 +1,6 @@
 ---
 title: "Doctoral Innovation Consultants"
-excerpt: "Doctoral Innovation Consultants for LUinc. Apr to Jul 2024<br/><img src='/images/DlnC.jpg'>"
+excerpt: "LUinc. Apr to Jul 2024<br/><img src='/images/DlnC.jpg'>"
 collection: portfolio
 ---
 
