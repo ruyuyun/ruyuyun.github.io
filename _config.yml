@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ruyu Yun"
 title_separator          : "-"
 name                     : &name "Ruyu Yun"
-description              : &description "3rd Years Ph.D. Researcher"
+description              : &description "4rd Years Ph.D. Researcher"
 url                      : "https://ruyuyun.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ruyuyun/ruyuyun.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ruyu Yun"
-  avatar           : "WechatIMG234.jpeg"
+  avatar           : "IMG_6855.jpeg"
   bio              : "4rd Years Doctoral Researcher in Institute for Digtial Technology"
   location         : "Leeds and London, UK"
   employer         :
