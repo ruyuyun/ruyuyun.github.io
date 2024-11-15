@@ -1,6 +1,6 @@
 ---
 title: "Doctoral Innovation Consultants"
-excerpt: "LUinc. Apr to Jul 2024<br/><img src='/images/DlnC.jpg'>"
+excerpt: "Apr to Jul 2024, LUinc., United Kingdom <br/><img src='/images/DlnC.jpg'>"
 collection: portfolio
 ---
 
