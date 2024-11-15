@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Ruyu Yun, in my **third year** as a **Ph.D. candidate** at [Institute for Digital Technologies, Loughborough University London](https://www.lborolondon.ac.uk/institutes/digital-technologies/), working under the mentorship of [Dr. Jie Meng](https://www.lborolondon.ac.uk/about/staff/dr-jie-meng/), the Programme Director and Interdisciplinary Priority Research Lead; and [Dr. Safak Dogan](https://www.lborolondon.ac.uk/about/staff/safak-dogan/), the Reader and Programme Director. I'm specializing in ***neuromarketing* and *digital psychology***. My research focuses on understanding the dynamic interplay between technology and consumer behavior, particularly in the context of the changes brought about by Metaverse.
+I am Ruyu Yun, in my **final year** as a **Ph.D. candidate** at [Institute for Digital Technologies, Loughborough University London](https://www.lborolondon.ac.uk/institutes/digital-technologies/), working under the mentorship of [Dr. Jie Meng](https://www.lborolondon.ac.uk/about/staff/dr-jie-meng/), the Programme Director and Interdisciplinary Priority Research Lead; and [Dr. Safak Dogan](https://www.lborolondon.ac.uk/about/staff/safak-dogan/), the Reader and Programme Director. I'm specializing in ***neuromarketing* and *digital psychology***. My research focuses on understanding the dynamic interplay between technology and consumer behavior, particularly in the context of the changes brought about by Metaverse.
 
 
 Research Interests
@@ -26,3 +26,4 @@ Core Skill
 - Biometric Data Analysis
 - Neuroscience Tools
 - Augmented and Virtual Reality Development
+- Funding and grant application
