@@ -8,8 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am Ruyu Yun, in my **final year** as a **Ph.D. candidate** at [Institute for Digital Technologies, Loughborough University London](https://www.lborolondon.ac.uk/institutes/digital-technologies/), working under the mentorship of [Dr. Jie Meng](https://www.lborolondon.ac.uk/about/staff/dr-jie-meng/), the Programme Director and Interdisciplinary Priority Research Lead; and [Dr. Safak Dogan](https://www.lborolondon.ac.uk/about/staff/safak-dogan/), the Reader and Programme Director. I'm specializing in ***neuromarketing* and *digital psychology***. My research focuses on understanding the dynamic interplay between technology and consumer behavior, particularly in the context of the changes brought about by Metaverse.
+I am Ruyu Yun, in my **final year** as a **Ph.D. candidate** at [Institute for Digital Technologies, Loughborough University London](https://www.lborolondon.ac.uk/institutes/digital-technologies/). I'm specializing in ***neuromarketing* and *digital psychology***. My research focuses on understanding the dynamic interplay between technology and consumer behavior, particularly in the context of the changes brought about by Metaverse. I bring a multidisciplinary approach to my work, integrating insights from consumer behavior, digital anthropology, cognitive psychology, and decision sciences, while also leveraging tools from machine learning to analyze complex patterns and enhance understanding in these areas. I have presented my research at top-tier conferences, including EMAC, GMC, and AMA, and have contributed to advancing knowledge in livestream e-commerce and digital marketing.
 
+Beyond academia, I have practical experience in teaching, consulting for start-up businesses, and working in dynamic environments across the UK and China. My diverse background informs my passion for uncovering the cognitive and psychological dynamics that drive technology-driven consumer experiences.
+
+Feel free to connect and learn more about my work!
 
 Research Interests
 ======
