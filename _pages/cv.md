@@ -40,15 +40,15 @@ Teaching Experience
 Research Experience
 =====
 *List by project:*
-***2021 (Ongoing Ph.d. Research Project):*** *Neuromarketing Empirical Approaches: Investigate Moderating Effects of Technological Liminoid Effect and Mediating Mechanism of Proteus Effect and Online Disinhibition in Shaping Consumer Psychology in Post-Covid Pandemic Context*
-  * This project outcome will be published in the form of 3 papers, the first paper is currently under review by 2024 EMAC Annual Conference and 2024 AMA Summer Academic Conference (Two top-tier conferences in Marketing).
+***2021 (Ongoing Ph.d. Research Project):*** *Neuromarketing Empirical Approaches: Investigate Moderating Effects of Technological Liminoid Effect and Mediating Mechanism of Proteus Effect and Online Disinhibition in Shaping Consumer Psychology in Metaverse*
+  * This project outcome will be published in the form of 3 papers, the first paper was accepted by 2024 EMAC Annual Conference and 2024 AMA Summer Academic Conference as oral presentation (Two top-tier conferences in Marketing).
   * Identified the study agenda and designed two set experiments (including 6 experiment groups in each set) by the critical literature review.
   * Built customised pupil lab eye-tracker mounts by using 3D modelling software.
   * Developed Unity 3D AR programme as experimental material.
   * Analyzed eye tracking data by machine learning approach.
 
 ***2021 (Ongoing):*** *Influencers versus Collective Atmospherics Impact on Buying Intentions in Livestreaming E-Commerce: An Integrated Examination of Bandwagon and Halo Effects*
-  * Wrote a research paper under review at Technological Forecasting and Social Change (ABS 3, IF 12, SSCI).
+  * Wrote a research paper on Major Revision stage of Internaltional Journal of Electronic Commerce (Top E-commerce Journal, AJG 3, IF 5.0, Q1).
   *	Designed an experiment containing 17 groups and collected data from 1387 subjects.
   *	Applied Data mining and analysis techniques to obtain satisfactory experimental results.
 
