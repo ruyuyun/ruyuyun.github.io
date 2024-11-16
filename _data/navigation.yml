@@ -9,14 +9,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
   
-  - title: "Talks"
-    url: /talks/    
-    
   - title: "Activities"
     url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
   
   - title: "Fundings & Grants"
     url: /fundings/
