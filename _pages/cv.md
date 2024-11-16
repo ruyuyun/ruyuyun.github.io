@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * **Doctor of Philosophy** in Digital Technology and Neuromarketing, Institute for Digital Technologies, Loughborough University, 2024 (expected)
-* **Master of Science** in Management, Leeds Business School, University of Leeds, 2014
+* **Master of Science** in Management, Leeds Business School, University of Leeds, 2020
 * **Bachelor of Law** in Laws, Taiyuan Institute of Technology, 2018
 
 Teaching Experience
