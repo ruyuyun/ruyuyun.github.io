@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-Neuromarketing Empirical Approaches: Investigate Moderating Effects of Technological Liminoid Effect and Mediating Mechanism of Proteus Effect and Online Disinhibition in Shaping Consumer Psychology in Post-Covid Pandemic Context
+Neuromarketing Empirical Approaches: Investigate Moderating Effects of Technological Liminoid Effect and Mediating Mechanism of Proteus Effect and Online Disinhibition in Metaverse
 ---
 
 ### *2021 (Ongoing Ph.d. Research Project)* <br>
