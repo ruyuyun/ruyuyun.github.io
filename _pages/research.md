@@ -24,7 +24,7 @@ Influencers versus Collective Atmospherics Impact on Buying Intentions in Livest
 
 ### *2021 (Ongoing)* <br>
 
-  * Wrote a research paper under review at Technological Forecasting and Social Change (ABS 3, IF 12, SSCI).
+  * Wrote a research paper under review at Internaltional Journal of Electronic Commerce (Top E-commerce Journal, AJG 3, IF 5.0, Q1).
   *	Designed an experiment containing 17 groups and collected data from 1387 subjects.
   *	Applied Data mining and analysis techniques to obtain satisfactory experimental results.
 
