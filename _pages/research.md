@@ -19,6 +19,8 @@ Neuromarketing Empirical Approaches: Investigate Moderating Effects of Technolog
   * Developed Unity 3D AR programme as experimental material.
   * Analyzed eye tracking data by machine learning approach.
 
+<br/><img src='/images/DlnC.jpg'>
+
 Influencers versus Collective Atmospherics Impact on Buying Intentions in Livestreaming E-Commerce: An Integrated Examination of Bandwagon and Halo Effects
 ---
 
