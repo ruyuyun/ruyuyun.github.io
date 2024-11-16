@@ -13,7 +13,7 @@ Neuromarketing Empirical Approaches: Investigate Moderating Effects of Technolog
 
 ### *2021 (Ongoing Ph.d. Research Project)* <br>
 
-  * This project outcome will be published in the form of 3 papers, the first paper is currently under review by 2024 EMAC Annual Conference and 2024 AMA Summer Academic Conference (Two top-tier conferences in Marketing).
+  * This project outcome will be published in the form of 3 papers, the first paper was accepted by 2024 EMAC Annual Conference and 2024 AMA Summer Academic Conference as oral presentation (Two top-tier conferences in Marketing).
   * Identified the study agenda and designed two set experiments (including 6 experiment groups in each set) by the critical literature review.
   * Built customised pupil lab eye-tracker mounts by using 3D modelling software.
   * Developed Unity 3D AR programme as experimental material.
